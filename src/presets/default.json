@@ -1,0 +1,14 @@
+{
+  "Resx": 16,
+  "Resy": 16,
+  "Resz": 16,
+  "Universe": 0,
+  "Startaddr": 1,
+  "Fadetime": 2.0,
+  "Activescene": 1,
+  "Crossfade": 0.5,
+  "Activeptsize": 0.5,
+  "Timeline": 0.8170974155069582,
+  "Showbbox": 0,
+  "Colormode": 1
+}

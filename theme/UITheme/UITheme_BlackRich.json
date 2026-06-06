@@ -1,0 +1,4934 @@
+{
+  "component": "UITheme",
+  "name": "BlackRich",
+  "parameters": [
+    {
+      "name": "Preview",
+      "value": "",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Previewbgcolorr",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Previewbgcolorg",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Previewbgcolorb",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Font2",
+      "value": "",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Fontsizemode",
+      "value": "panelunits",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "2"
+    },
+    {
+      "name": "Fontsize1",
+      "value": "14",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Fontsize2",
+      "value": "10",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Color",
+      "value": "",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Color1r",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Color1g",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Color1b",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Color1a",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Color2r",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Color2g",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Color2b",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Color2a",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Color3r",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Color3g",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Color3b",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Color3a",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Color4r",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Color4g",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Color4b",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Color4a",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Label",
+      "value": "",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Width1",
+      "value": "100",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Width2",
+      "value": "100",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "W",
+      "value": "450",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "H",
+      "value": "26",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Hmode",
+      "value": "fill",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Vmode",
+      "value": "fixed",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Bgcolorr",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Bgcolorg",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Bgcolorb",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Bgalpha",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Labeldisplay",
+      "value": "True",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Labelwordwrap",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Labelfontsizemode",
+      "value": "panelunits",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "2"
+    },
+    {
+      "name": "Labelfontsize",
+      "value": "10",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Labelfontfraction",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Labelfontbold",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Labelalignx",
+      "value": "left",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Labelaligny",
+      "value": "center",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Labeloffsetx",
+      "value": "6.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Labeloffsety",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Labelpadding1",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Labelpadding2",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Labelpadding3",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Labelpadding4",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Labelbgcolorr",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Labelbgcolorg",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Labelbgcolorb",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Labelbgcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Labelfontcolorr",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Labelfontcolorg",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Labelfontcolorb",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Labelfontcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Labelhorizontalmode",
+      "value": "fixed",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Labelwidth",
+      "value": "120",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Labelhfillweight",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Labelverticalmode",
+      "value": "fill",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Labelheight",
+      "value": "32",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Labelvfillweight",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfielddisplay",
+      "value": "True",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldreadonly",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldtype",
+      "value": "float",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Numericfieldformatting",
+      "value": "number",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Numericfielddecimalplaces",
+      "value": "3",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldupdatewhiletyping",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldfontsizemode",
+      "value": "panelunits",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "2"
+    },
+    {
+      "name": "Numericfieldfontsize",
+      "value": "10",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldfontfraction",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldscaletoolarge",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldfontbold",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldalignx",
+      "value": "left",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Numericfieldaligny",
+      "value": "center",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Numericfieldoffsetx",
+      "value": "5.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldoffsety",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldpadding1",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldpadding2",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldpadding3",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldpadding4",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldbgcolorr",
+      "value": "0.07",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldbgcolorg",
+      "value": "0.07",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldbgcolorb",
+      "value": "0.07",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldbgcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldfontcolorr",
+      "value": "0.82",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldfontcolorg",
+      "value": "0.82",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldfontcolorb",
+      "value": "0.82",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldfontcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldbordercolorr",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldbordercolorg",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldbordercolorb",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldbordercolora",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldhorizontalmode",
+      "value": "fixed",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Numericfieldwidth",
+      "value": "60",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldhfillweight",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldverticalmode",
+      "value": "fill",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Numericfieldheight",
+      "value": "26",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Numericfieldvfillweight",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Textareaeditmode",
+      "value": "editable",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Textareafontsizemode",
+      "value": "points",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Textareafontsize",
+      "value": "9",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Textareafontfraction",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Textareafontbold",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Textareascaletoolarge",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Textareafontcolorr",
+      "value": "0.82",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Textareafontcolorg",
+      "value": "0.82",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Textareafontcolorb",
+      "value": "0.82",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Textareafontcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Textareabgcolorr",
+      "value": "0.07",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Textareabgcolorg",
+      "value": "0.07",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Textareabgcolorb",
+      "value": "0.07",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Textareabgcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Textareabordercolorr",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Textareabordercolorg",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Textareabordercolorb",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Textareabordercolora",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Textareavaluealign",
+      "value": "Left",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Textareaextoffsetx",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Textareaextoffsety",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Textareapadding1",
+      "value": "4.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Textareapadding2",
+      "value": "4.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Textareapadding3",
+      "value": "4.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Textareapadding4",
+      "value": "4.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Textareaalignx",
+      "value": "left",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Textareaalignxmode",
+      "value": "metrics",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Textareaaligny",
+      "value": "top",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "2"
+    },
+    {
+      "name": "Textareaalignymode",
+      "value": "metrics",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Stringfielddisplay",
+      "value": "True",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldreadonly",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldprotected",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldconspaces",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldcursor",
+      "value": "True",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldupdatewhiletyping",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldfocus",
+      "value": "",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldfontsizemode",
+      "value": "points",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Stringfieldfontsize",
+      "value": "8",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldfontfraction",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldscaletoolarge",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldfontbold",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldalignx",
+      "value": "left",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Stringfieldaligny",
+      "value": "center",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Stringfieldoffsetx",
+      "value": "6.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldoffsety",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldpadding1",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldpadding2",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldpadding3",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldpadding4",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldbgcolorr",
+      "value": "0.07",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldbgcolorg",
+      "value": "0.07",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldbgcolorb",
+      "value": "0.07",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldbgcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldfontcolorr",
+      "value": "0.82",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldfontcolorg",
+      "value": "0.82",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldfontcolorb",
+      "value": "0.82",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldfontcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldbordercolorr",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldbordercolorg",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldbordercolorb",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldbordercolora",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldborderleft",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldborderright",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldbordertop",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldborderbottom",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldcustomizeinteraction",
+      "value": "0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldpanelexec",
+      "value": "",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldhorizontalmode",
+      "value": "fixed",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Stringfieldwidth",
+      "value": "119",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldhfillweight",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldverticalmode",
+      "value": "fixed",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Stringfieldheight",
+      "value": "26",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Stringfieldvfillweight",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonofflabel",
+      "value": "Go",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttononlabel",
+      "value": "Go",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttontype",
+      "value": "Momentary",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Buttonfont",
+      "value": "Open Sans",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "70"
+    },
+    {
+      "name": "Buttonfontsizemode",
+      "value": "panelunits",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "2"
+    },
+    {
+      "name": "Buttonfontsize",
+      "value": "12",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonfontfraction",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonscaletoolarge",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonfontbold",
+      "value": "True",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonalignx",
+      "value": "center",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Buttonalignxmode",
+      "value": "bbox",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Buttonaligny",
+      "value": "center",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Buttonalignymode",
+      "value": "bbox",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Buttonoffsetx",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonoffsety",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonpadding1",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonpadding2",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonpadding3",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonpadding4",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonbasecolorr",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonbasecolorg",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonbasecolorb",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonbasecolora",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonofffacecolorr",
+      "value": "0.12",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonofffacecolorg",
+      "value": "0.12",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonofffacecolorb",
+      "value": "0.12",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonofffacecolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttononfacecolorr",
+      "value": "0.78",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttononfacecolorg",
+      "value": "0.62",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttononfacecolorb",
+      "value": "0.22",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttononfacecolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonofffontcolorr",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonofffontcolorg",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonofffontcolorb",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonofffontcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttononfontcolorr",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttononfontcolorg",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttononfontcolorb",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttononfontcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonborder",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonbordercolorr",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonbordercolorg",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonbordercolorb",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonbordercolora",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonhorizontalmode",
+      "value": "fixed",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Buttonwidth",
+      "value": "88",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonhfillweight",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonverticalmode",
+      "value": "fill",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Buttonheight",
+      "value": "88",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Buttonvfillweight",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockerlabels",
+      "value": "Off On",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockerfontsizemode",
+      "value": "panelunits",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "2"
+    },
+    {
+      "name": "Rockerfontsize",
+      "value": "10",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockerfontfraction",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockerscaletoolarge",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockerfontbold",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockeroffbgcolorr",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockeroffbgcolorg",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockeroffbgcolorb",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockeroffbgcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockeronbgcolorr",
+      "value": "0.22",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockeronbgcolorg",
+      "value": "0.17",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockeronbgcolorb",
+      "value": "0.06",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockeronbgcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockeroffbuttoncolorr",
+      "value": "0.12",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockeroffbuttoncolorg",
+      "value": "0.12",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockeroffbuttoncolorb",
+      "value": "0.12",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockeroffbuttoncolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockeronbuttoncolorr",
+      "value": "0.78",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockeronbuttoncolorg",
+      "value": "0.62",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockeronbuttoncolorb",
+      "value": "0.22",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockeronbuttoncolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockerofffontcolorr",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockerofffontcolorg",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockerofffontcolorb",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockerofffontcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockeronfontcolorr",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockeronfontcolorg",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockeronfontcolorb",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockeronfontcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockerhorizontalmode",
+      "value": "fixed",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Rockerwidth",
+      "value": "49",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockerhfillweight",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockerverticalmode",
+      "value": "fill",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Rockerheight",
+      "value": "88",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rockervfillweight",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radiolabels",
+      "value": "0 1 2 3 4 5 6 7 8",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radiomaxperline",
+      "value": "0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radiomargin",
+      "value": "1",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radiofont",
+      "value": "Open Sans",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "70"
+    },
+    {
+      "name": "Radiofontsizemode",
+      "value": "points",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Radiofontsize",
+      "value": "10",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radiofontfraction",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioscaletoolarge",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radiofontbold",
+      "value": "True",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioalignx",
+      "value": "center",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Radioalignxmode",
+      "value": "bbox",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Radioaligny",
+      "value": "center",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Radioalignymode",
+      "value": "bbox",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Radiooffsetx",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radiooffsety",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radiopadding1",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radiopadding2",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radiopadding3",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radiopadding4",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radiobasecolorr",
+      "value": "0.18",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radiobasecolorg",
+      "value": "0.18",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radiobasecolorb",
+      "value": "0.18",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radiobasecolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioofffacecolorr",
+      "value": "0.12",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioofffacecolorg",
+      "value": "0.12",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioofffacecolorb",
+      "value": "0.12",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioofffacecolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioonfacecolorr",
+      "value": "0.78",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioonfacecolorg",
+      "value": "0.62",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioonfacecolorb",
+      "value": "0.22",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioonfacecolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioofffontcolorr",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioofffontcolorg",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioofffontcolorb",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioofffontcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioonfontcolorr",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioonfontcolorg",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioonfontcolorb",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioonfontcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radiobordera",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioborderacolorr",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioborderacolorg",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioborderacolorb",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioborderacolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioborderb",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioborderbcolorr",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioborderbcolorg",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioborderbcolorb",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioborderbcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radiohorizontalmode",
+      "value": "fill",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Radiowidth",
+      "value": "100",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radiohfillweight",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radioverticalmode",
+      "value": "fill",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Radioheight",
+      "value": "88",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Radiovfillweight",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checklook",
+      "value": "box",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Checkoffcolorr",
+      "value": "0.18182",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkoffcolorg",
+      "value": "0.18182",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkoffcolorb",
+      "value": "0.18182",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkoffcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkoncolorr",
+      "value": "0.18182",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkoncolorg",
+      "value": "0.18182",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkoncolorb",
+      "value": "0.18182",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkoncolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkoffcheckcolorr",
+      "value": "0.12",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkoffcheckcolorg",
+      "value": "0.12",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkoffcheckcolorb",
+      "value": "0.12",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkoffcheckcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkoncheckcolorr",
+      "value": "0.78",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkoncheckcolorg",
+      "value": "0.62",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkoncheckcolorb",
+      "value": "0.22",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkoncheckcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkoffbordercolorr",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkoffbordercolorg",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkoffbordercolorb",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkoffbordercolora",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkonbordercolorr",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkonbordercolorg",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkonbordercolorb",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkonbordercolora",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkoffsizew",
+      "value": "0.618033",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkoffsizeh",
+      "value": "0.618033",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkonsizew",
+      "value": "0.618033",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkonsizeh",
+      "value": "0.618033",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkmarginsize",
+      "value": "0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkfixedaspect",
+      "value": "usevert",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "2"
+    },
+    {
+      "name": "Checkoffborderwidth",
+      "value": "0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkonborderwidth",
+      "value": "0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkcornerradius",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkantialias",
+      "value": "True",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkhorizontalmode",
+      "value": "fill",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Checkwidth",
+      "value": "88",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkhfillweight",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkverticalmode",
+      "value": "fill",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Checkheight",
+      "value": "88",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Checkvfillweight",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menubuttonfontsize",
+      "value": "9",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menufontsizemode",
+      "value": "points",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Menufontsize",
+      "value": "9",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menufontfraction",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menuscaletoolarge",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menufontbold",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menuoffsetx",
+      "value": "6.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menuoffsety",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menubgcolorr",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menubgcolorg",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menubgcolorb",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menubgcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menurollcolorr",
+      "value": "0.16",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menurollcolorg",
+      "value": "0.16",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menurollcolorb",
+      "value": "0.16",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menurollcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menuselectcolorr",
+      "value": "0.22",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menuselectcolorg",
+      "value": "0.17",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menuselectcolorb",
+      "value": "0.06",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menuselectcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menufontoffcolorr",
+      "value": "0.65",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menufontoffcolorg",
+      "value": "0.65",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menufontoffcolorb",
+      "value": "0.65",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menufontoffcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menufontoncolorr",
+      "value": "0.65",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menufontoncolorg",
+      "value": "0.65",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menufontoncolorb",
+      "value": "0.65",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menufontoncolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menubuttoniconcolorr",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menubuttoniconcolorg",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menubuttoniconcolorb",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menubuttoniconcolora",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menubuttonofffacecolorr",
+      "value": "0.12",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menubuttonofffacecolorg",
+      "value": "0.12",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menubuttonofffacecolorb",
+      "value": "0.12",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menubuttonofffacecolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menubuttononfacecolorr",
+      "value": "0.78",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menubuttononfacecolorg",
+      "value": "0.62",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menubuttononfacecolorb",
+      "value": "0.22",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menubuttononfacecolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menubuttonrollcolorr",
+      "value": "0.16",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menubuttonrollcolorg",
+      "value": "0.16",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menubuttonrollcolorb",
+      "value": "0.16",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Menubuttonrollcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knoblabel",
+      "value": "A",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knoblabeldisplay",
+      "value": "True",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobalignmode",
+      "value": "metrics",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Knobfontsizemode",
+      "value": "panelunits",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "2"
+    },
+    {
+      "name": "Knobfontsize",
+      "value": "20",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobfontfraction",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobscaletoolarge",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobfontbold",
+      "value": "True",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobsensitivity",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobdialscale",
+      "value": "0.686",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knoblevelscale",
+      "value": "0.753",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobrangescale",
+      "value": "0.863",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobrangegapangle",
+      "value": "51.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knotchwidth",
+      "value": "0.733",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knotchlength",
+      "value": "0.162",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobbgcolorr",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobbgcolorg",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobbgcolorb",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobbgcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobfontcolorr",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobfontcolorg",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobfontcolorb",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobfontcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobrangecolorr",
+      "value": "0.22",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobrangecolorg",
+      "value": "0.17",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobrangecolorb",
+      "value": "0.06",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobrangecolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knoblevelcolorr",
+      "value": "0.78",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knoblevelcolorg",
+      "value": "0.62",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knoblevelcolorb",
+      "value": "0.22",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knoblevelcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobdialcolorr",
+      "value": "0.12",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobdialcolorg",
+      "value": "0.12",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobdialcolorb",
+      "value": "0.12",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobdialcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knotchcolorr",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knotchcolorg",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knotchcolorb",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knotchcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobrollovercolorr",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobrollovercolorg",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobrollovercolorb",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobrollovercolora",
+      "value": "0.04",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobhorizontalmode",
+      "value": "fill",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Knobwidth",
+      "value": "110",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobhfillweight",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobverticalmode",
+      "value": "fixed",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Knobheight",
+      "value": "88",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Knobvfillweight",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderorient",
+      "value": "horz",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Sliderignoreinteract",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderrelativemode",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderlabelnames",
+      "value": "Slider",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderlabeldisplay",
+      "value": "True",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderfontsizemode",
+      "value": "panelunits",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "2"
+    },
+    {
+      "name": "Sliderfontsize",
+      "value": "9",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderfontfraction",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderscaletoolarge",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderfontbold",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slideralignx",
+      "value": "center",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Slideraligny",
+      "value": "center",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Slideroffsetx",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slideroffsety",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderpadding1",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderpadding2",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderpadding3",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderpadding4",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderknobsize",
+      "value": "1",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderbgcolorr",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderbgcolorg",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderbgcolorb",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderbgcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderknobcolorr",
+      "value": "0.78",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderknobcolorg",
+      "value": "0.62",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderknobcolorb",
+      "value": "0.22",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderknobcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderlabelfontcolorr",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderlabelfontcolorg",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderlabelfontcolorb",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderlabelfontcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderindicatorcolorr",
+      "value": "0.22",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderindicatorcolorg",
+      "value": "0.17",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderindicatorcolorb",
+      "value": "0.06",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Sliderindicatorcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dlabelname",
+      "value": "XY",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dlabeldisplay",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dlabelalignhorizontal",
+      "value": "center",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Slider2dlabelalignvertical",
+      "value": "center",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Slider2dknobsize",
+      "value": "12",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dlabelfontsize",
+      "value": "9",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dlabelfontbold",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dbgcolorr",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dbgcolorg",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dbgcolorb",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dbgcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dbordercolorr",
+      "value": "0.18",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dbordercolorg",
+      "value": "0.18",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dbordercolorb",
+      "value": "0.18",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dbordercolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dknobcolorr",
+      "value": "0.78",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dknobcolorg",
+      "value": "0.62",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dknobcolorb",
+      "value": "0.22",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dknobcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dknobbordercolorr",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dknobbordercolorg",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dknobbordercolorb",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dknobbordercolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2drollovercolorr",
+      "value": "0.16",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2drollovercolorg",
+      "value": "0.16",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2drollovercolorb",
+      "value": "0.16",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2drollovercolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dlabelfontcolorr",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dlabelfontcolorg",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dlabelfontcolorb",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dlabelfontcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dhorizontalmode",
+      "value": "fixed",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Slider2dwidth",
+      "value": "180",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dhfillweight",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dverticalmode",
+      "value": "fill",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Slider2dheight",
+      "value": "129",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slider2dvfillweight",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slideralignmargin1",
+      "value": "0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Slideralignmargin2",
+      "value": "1",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabmargin",
+      "value": "1",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertablabelmargin",
+      "value": "30",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabopenmargin",
+      "value": "2",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabfont",
+      "value": "Open Sans",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "70"
+    },
+    {
+      "name": "Foldertabfontsizemode",
+      "value": "panelunits",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "2"
+    },
+    {
+      "name": "Foldertabfontsize",
+      "value": "11",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabfontfraction",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabscaletoolarge",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabfontbold",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabalignx",
+      "value": "left",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Foldertabalignxmode",
+      "value": "metrics",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Foldertabaligny",
+      "value": "center",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Foldertabalignymode",
+      "value": "metrics",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Foldertaboffsetx",
+      "value": "6.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertaboffsety",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabpadding1",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabpadding2",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabpadding3",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabpadding4",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabofffacecolorr",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabofffacecolorg",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabofffacecolorb",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabofffacecolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabonfacecolorr",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabonfacecolorg",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabonfacecolorb",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabonfacecolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabofffontcolorr",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabofffontcolorg",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabofffontcolorb",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabofffontcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabonfontcolorr",
+      "value": "0.82",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabonfontcolorg",
+      "value": "0.82",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabonfontcolorb",
+      "value": "0.82",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabonfontcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabrollcolorr",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabrollcolorg",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabrollcolorb",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabrollcolora",
+      "value": "0.06",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertaboffbordercolorr",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertaboffbordercolorg",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertaboffbordercolorb",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertaboffbordercolora",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabonbordercolorr",
+      "value": "0.78",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabonbordercolorg",
+      "value": "0.62",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabonbordercolorb",
+      "value": "0.22",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabonbordercolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertaboffborderleft",
+      "value": "True",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertaboffborderright",
+      "value": "True",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertaboffbordertop",
+      "value": "True",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertaboffborderbottom",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabonborderleft",
+      "value": "True",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabonborderright",
+      "value": "True",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabonbordertop",
+      "value": "True",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldertabonborderbottom",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Folderdoubletabborders",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Foldercustomizeinteraction",
+      "value": "0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Folderpanelexec",
+      "value": "",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfielddisplay",
+      "value": "True",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfieldfontsizemode",
+      "value": "points",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Referfieldfontsize",
+      "value": "9",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfieldfontfraction",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfieldscaletoolarge",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfieldfontbold",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfieldalignx",
+      "value": "left",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Referfieldaligny",
+      "value": "center",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Referfieldoffsetx",
+      "value": "6.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfieldoffsety",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfieldpadding1",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfieldpadding2",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfieldpadding3",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfieldpadding4",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfieldbgcolorr",
+      "value": "0.07",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfieldbgcolorg",
+      "value": "0.07",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfieldbgcolorb",
+      "value": "0.07",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfieldbgcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfieldfontcolorr",
+      "value": "0.82",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfieldfontcolorg",
+      "value": "0.82",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfieldfontcolorb",
+      "value": "0.82",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfieldfontcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfieldbordercolorr",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfieldbordercolorg",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfieldbordercolorb",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfieldbordercolora",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfieldborderleft",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfieldborderright",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfieldbordertop",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Referfieldborderbottom",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contextrootop",
+      "value": "/",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contextfilterclasses",
+      "value": "COMP",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Contextfilterkey",
+      "value": "None",
+      "expression": "None",
+      "mode": "expression",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contextcurrentarrow",
+      "value": "True",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contextallowemptypath",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contextrightclickmenu",
+      "value": "True",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contextsetcurrentwithdrop",
+      "value": "True",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contextfont",
+      "value": "Open Sans",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "70"
+    },
+    {
+      "name": "Contextfontsize",
+      "value": "10",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contextbold",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contextleftmargin",
+      "value": "2",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contextpathspacing",
+      "value": "2",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contextfontcolorr",
+      "value": "0.82",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contextfontcolorg",
+      "value": "0.82",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contextfontcolorb",
+      "value": "0.82",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contextfontcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contextbgcolorr",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contextbgcolorg",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contextbgcolorb",
+      "value": "0.08",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contextbgcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contexthighlightcolorr",
+      "value": "0.35",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contexthighlightcolorg",
+      "value": "0.4",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contexthighlightcolorb",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contexthighlightcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contexthighlightfontcolorr",
+      "value": "0.78",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contexthighlightfontcolorg",
+      "value": "0.62",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contexthighlightfontcolorb",
+      "value": "0.22",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contexthighlightfontcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Contextpopmenu",
+      "value": "",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Headerlabel",
+      "value": "Header",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Headerlabeldisplay",
+      "value": "True",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Headerlabelwordwrap",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Headerlabelfontsizemode",
+      "value": "panelunits",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "2"
+    },
+    {
+      "name": "Headerlabelfontsize",
+      "value": "12",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Headerlabelfontfraction",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Headerlabelscaletoolarge",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Headerlabelfontbold",
+      "value": "True",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Headerlabelalignx",
+      "value": "left",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Headerlabelaligny",
+      "value": "center",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Headerlabeloffsetx",
+      "value": "6.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Headerlabeloffsety",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Headerlabelpadding1",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Headerlabelpadding2",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Headerlabelpadding3",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Headerlabelpadding4",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Headerlabelbgcolorr",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Headerlabelbgcolorg",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Headerlabelbgcolorb",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Headerlabelbgcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Headerlabelfontcolorr",
+      "value": "0.82",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Headerlabelfontcolorg",
+      "value": "0.82",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Headerlabelfontcolorb",
+      "value": "0.82",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Headerlabelfontcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Headerrepositionwindow",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Footerlabel",
+      "value": "Footer",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Footerlabeldisplay",
+      "value": "True",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Footerlabelwordwrap",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Footerlabelfontsizemode",
+      "value": "panelunits",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "2"
+    },
+    {
+      "name": "Footerlabelfontsize",
+      "value": "12",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Footerlabelfontfraction",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Footerlabelscaletoolarge",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Footerlabelfontbold",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Footerlabelalignx",
+      "value": "left",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "0"
+    },
+    {
+      "name": "Footerlabelaligny",
+      "value": "center",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "1"
+    },
+    {
+      "name": "Footerlabeloffsetx",
+      "value": "6.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Footerlabeloffsety",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Footerlabelpadding1",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Footerlabelpadding2",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Footerlabelpadding3",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Footerlabelpadding4",
+      "value": "0.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Footerlabelbgcolorr",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Footerlabelbgcolorg",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Footerlabelbgcolorb",
+      "value": "0.05",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Footerlabelbgcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Footerlabelfontcolorr",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Footerlabelfontcolorg",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Footerlabelfontcolorb",
+      "value": "0.5",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Footerlabelfontcolora",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Footerrepositionwindow",
+      "value": "False",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Enablerollover",
+      "value": "True",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rollovercolorr",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rollovercolorg",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rollovercolorb",
+      "value": "1.0",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rollovercolora",
+      "value": "0.04",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Disablecolorr",
+      "value": "0.2",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Disablecolorg",
+      "value": "0.2",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Disablecolorb",
+      "value": "0.2",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Disablecolora",
+      "value": "0.65",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Font",
+      "value": "Open Sans",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": "70"
+    },
+    {
+      "name": "Fontfile",
+      "value": "",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Popuphelp",
+      "value": "",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Rightclickmenu",
+      "value": "True",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    },
+    {
+      "name": "Presetname",
+      "value": "Default",
+      "expression": "",
+      "mode": "constant",
+      "menuIndex": ""
+    }
+  ]
+}

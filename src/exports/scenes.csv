@@ -1,0 +1,7 @@
+"id","name","preset_path","color_profile"
+"0","Blank","presets/00_blank.json","rec709"
+"1","Geometry Basic","presets/01_geometry_basic.json","rec709"
+"2","Particle Field","presets/02_particle_field.json","rec709"
+"3","Abstract GLSL","presets/03_abstract_glsl.json","rec709"
+"4","Video Playback","presets/04_video_playback.json","rec709"
+"5","Multi Object","presets/05_multi_object.json","dcip3"

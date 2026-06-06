@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0",
+    "name": "Blank",
+    "preset_path": "presets/00_blank.json",
+    "color_profile": "rec709"
+  },
+  {
+    "id": "1",
+    "name": "Geometry Basic",
+    "preset_path": "presets/01_geometry_basic.json",
+    "color_profile": "rec709"
+  },
+  {
+    "id": "2",
+    "name": "Particle Field",
+    "preset_path": "presets/02_particle_field.json",
+    "color_profile": "rec709"
+  },
+  {
+    "id": "3",
+    "name": "Abstract GLSL",
+    "preset_path": "presets/03_abstract_glsl.json",
+    "color_profile": "rec709"
+  },
+  {
+    "id": "4",
+    "name": "Video Playback",
+    "preset_path": "presets/04_video_playback.json",
+    "color_profile": "rec709"
+  },
+  {
+    "id": "5",
+    "name": "Multi Object",
+    "preset_path": "presets/05_multi_object.json",
+    "color_profile": "dcip3"
+  }
+]

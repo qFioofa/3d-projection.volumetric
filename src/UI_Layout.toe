@@ -1,0 +1,111 @@
+{
+	"project": {
+		"version": "2025.33550",
+		"folder": "C:/Users/qFioofa/Desktop/3d-projection.volumetric/src",
+		"file": "UI_Layout.toe",
+		"datetime": "2026-05-21 12:00:00"
+	},
+	"op": {
+		"ui_network": {
+			"type": "net",
+			"par": {
+				"path": ".",
+				"page0": "Common",
+				"page1": "UI"
+			},
+			"op": {
+				"MainUI": {
+					"type": "top",
+					"par": {
+						"width": 1920,
+						"height": 1080,
+						"interp": "linear"
+					},
+					"op": {
+						"header_panel": {
+							"type": "panel",
+							"par": {
+								"posx": 0,
+								"posy": 0,
+								"size_x": 1,
+								"size_y": 0.08,
+								"stretch": 3,
+								"bcolor1": 0.1,
+								"bcolor2": 0.1,
+								"bcolor3": 0.1,
+								"border": 1,
+								"bordercolor1": 0.3,
+								"bordercolor2": 0.3,
+								"bordercolor3": 0.3
+							}
+						},
+						"left_panel": {
+							"type": "panel",
+							"par": {
+								"posx": 0,
+								"posy": 0.08,
+								"size_x": 0.2,
+								"size_y": 0.84,
+								"stretch": 3,
+								"bcolor1": 0.12,
+								"bcolor2": 0.12,
+								"bcolor3": 0.12,
+								"border": 1,
+								"bordercolor1": 0.25,
+								"bordercolor2": 0.25,
+								"bordercolor3": 0.25
+							}
+						},
+						"center_panel": {
+							"type": "panel",
+							"par": {
+								"posx": 0.2,
+								"posy": 0.08,
+								"size_x": 0.6,
+								"size_y": 0.84,
+								"stretch": 3,
+								"bcolor1": 0.08,
+								"bcolor2": 0.08,
+								"bcolor3": 0.08
+							}
+						},
+						"right_panel": {
+							"type": "panel",
+							"par": {
+								"posx": 0.8,
+								"posy": 0.08,
+								"size_x": 0.2,
+								"size_y": 0.84,
+								"stretch": 3,
+								"bcolor1": 0.12,
+								"bcolor2": 0.12,
+								"bcolor3": 0.12,
+								"border": 1,
+								"bordercolor1": 0.25,
+								"bordercolor2": 0.25,
+								"bordercolor3": 0.25
+							}
+						},
+						"footer_panel": {
+							"type": "panel",
+							"par": {
+								"posx": 0,
+								"posy": 0.92,
+								"size_x": 1,
+								"size_y": 0.08,
+								"stretch": 3,
+								"bcolor1": 0.1,
+								"bcolor2": 0.1,
+								"bcolor3": 0.1,
+								"border": 1,
+								"bordercolor1": 0.3,
+								"bordercolor2": 0.3,
+								"bordercolor3": 0.3
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
